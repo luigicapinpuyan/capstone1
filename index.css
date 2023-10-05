@@ -1,0 +1,58 @@
+/*CSS Reset*/
+
+* {
+
+	font-family: 'Ubuntu', sans-serif;
+}
+
+html {
+	width: 100%;
+}
+
+body {
+	width: 100%;
+}
+
+#projects {
+	background-color: #1B0000
+}
+
+#songs {
+	background-color: #202A44;
+}
+
+
+h1,h2,h3,h4 {
+	font-family: 'Young Serif', serif;
+}
+
+
+header {
+	background-color: #D3B683;
+	
+}
+
+.img-source {
+	font-size: 10px;
+}
+
+#profile-pic {
+	width: 350px;
+}
+
+.card {
+	width: 18rem;
+}
+
+.contact-logo {
+	width: 100px;
+	height: 100px;
+}
+#fb-logo {
+	width: 100px;
+	height: 100px;
+}
+
+#contact {
+	background-color: #013220;
+}
